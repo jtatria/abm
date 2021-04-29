@@ -1,0 +1,13 @@
+Package: abm
+Type: Package
+Title: Easy Agent Based Modelling in R
+Version: 0.1.0
+Author: José Tomás Atria
+Maintainer: The package maintainer <jtatria@gmail.com>
+Description: Provides a simple, unified interface for the design,
+    implementation, execution and analysis of agent based models.
+License: GPL v3.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+

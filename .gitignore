@@ -1,0 +1,7 @@
+.directory
+.R*
+
+man/*
+R/RcppExports.R
+src/RcppExports.cpp
+
