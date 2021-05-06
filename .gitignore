@@ -5,3 +5,4 @@ man/*
 R/RcppExports.R
 src/RcppExports.cpp
 
+.Rproj.user
